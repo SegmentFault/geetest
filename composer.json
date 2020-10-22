@@ -1,0 +1,20 @@
+{
+    "name" : "geetest",
+    "description" : "重新封装PHP端极验验证",
+    "license" : "BSD",
+    "authors": [
+        {
+            "name" : "kumfo",
+            "email": "kumfo@qq.com"
+        }
+    ],
+    "require": {
+        "php" : ">=7.4"
+    },
+    "autoload": {
+        "psr-4" : {"Geetest\\": "./"}
+    },
+    "scripts": {
+
+    }
+}
